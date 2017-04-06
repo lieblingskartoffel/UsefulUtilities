@@ -1,0 +1,2 @@
+# UsefulUtilities
+Useful Javascript utilities.
